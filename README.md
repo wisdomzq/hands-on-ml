@@ -1,2 +1,2 @@
 # hands-on-ml
-Follow d2l
+Following d2l,try a practical operation on ml 
